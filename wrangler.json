@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "weathered-grass-9b50",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "19800382-f018-4a35-a69a-e7af2930b9d1",
+      "database_name": "red-frog-04e6-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
